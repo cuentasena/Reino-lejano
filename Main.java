@@ -41,8 +41,7 @@ public class Main {
         p.cambiarSecreto("1234planB");
 
         sc.close();
-
-        // codigo de prueba
+        
         // p.secreto = "hack"; // no deja, en private
         // System.out.println(p.secreto); // error
     }
